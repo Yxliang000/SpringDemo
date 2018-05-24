@@ -1,0 +1,3 @@
+${Ansi.NAME}
+${Ansi.EMAIL}
+${spring-boot.version}
